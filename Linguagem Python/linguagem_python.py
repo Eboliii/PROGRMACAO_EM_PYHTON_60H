@@ -22,3 +22,11 @@ print('Olá Mundo...')
 #tipo_bool_logico
 True
 False
+
+#----------------------------------------------------------
+print('Olá Mundo','Rafael Eboli')
+print('Resultado da soma =', 2+2)
+print('Resultado da Divisão =', 2/2)
+print('O Aluno passou de ano?', True)
+print('Altura ', 1.81)
+print('O valor em real é: R$', 500.0) 
