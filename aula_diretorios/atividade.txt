@@ -1,0 +1,11 @@
+**Exercício 1: Criar e ler um Arquivo**
+
+**Exemplo 2: Cria um Diretório**
+
+**Exercício 3: Renomear um Diretório**
+
+**Exercício 4:  Listar Arquivos em um Diretório** 
+
+**Exercício 5:  Copiar Arquivos em um Diretório**
+
+**Exercício 6:  Remover**
